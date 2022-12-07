@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title=" ES 01 MOVISTAR+",ES: #VAMOS FHD
+http://974984952883321071.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321071.ts
+
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title=" ES 01 MOVISTAR+",ES: #VAMOS HD
+http://974984952883321072.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321072.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 SD
+http://974984952883165257.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165257.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
+http://974984952883246282.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/246282.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA FHD
+http://974984952883165385.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165385.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE SD" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" group-title="ES 09 DEPORTES",ES: MULTIDEPORTE SD
+http://974984952883165446.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165446.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 FHD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 1 FHD
+http://974984952883165457.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165457.ts
