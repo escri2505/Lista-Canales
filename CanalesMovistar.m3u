@@ -4,7 +4,52 @@ http://974984952883321366.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321366.ts
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title=" ES 01 MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
 http://974984952883321369.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321369.ts
 
-
 #EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title=" ES 01 MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
 http://974984952883321372.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321372.ts
+
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: HISTORIA HD
+http://974984952883321262.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321262.ts
+
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+",ES: #0 HD
+http://974984952883321069.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321069.ts
+
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA & PESCA HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: CAZA & PESCA HD
+http://974984952883321167.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321167.ts
+
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="ES: CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title=" ES 01 MOVISTAR+",ES: CAZAVISION HD
+http://974984952883321172.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321172.ts
+
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES: IBERALIA FHD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title=" ES 01 MOVISTAR+",ES: IBERALIA FHD
+http://974984952883321271.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321271.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNELS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title=" ES 01 MOVISTAR+",ES: DISCOVERY CHANNELS HD
+http://974984952883321211.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321211.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY WORLD HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png" group-title=" ES 01 MOVISTAR+",ES: DISCOVERY WORLD HD
+http://974984952883321213.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321213.ts
+
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX HD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title=" ES 01 MOVISTAR+",ES: DMAX HD
+http://974984952883321226.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321226.ts
+
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="ES: EL TORO TV HD" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title=" ES 01 MOVISTAR+",ES: EL TORO TV HD
+http://974984952883321232.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321232.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: ANDALUCIA HD
+http://974984952883326807.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/326807.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ORANGE HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: CANAL ORANGE HD
+http://974984952883329967.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/329967.ts
+
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL COCINA HEVC" tvg-logo="" group-title="ES 07 MOVISTAR + HEVC",ES: CANAL COCINA HEVC
+http://974984952883330526.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/330526.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID HD" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="ES 02 AUTONOMICOS",ES: TELEMADRID HD
+http://974984952883165351.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165351.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV HD" tvg-logo="http://graph.facebook.com/AragonTV/picture?width=320&height=320" group-title="ES 02 AUTONOMICOS",ES: ARAGON TV HD
+http://974984952883272438.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/272438.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA HD" tvg-logo="http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="ES 02 AUTONOMICOS",ES: CANAL EXTREMADURA HD
+http://974984952883272446.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/272446.ts
+
 
