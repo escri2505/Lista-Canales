@@ -1,6 +1,42 @@
 #EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title=" ES 01 MOVISTAR+",ES: #VAMOS HD
 http://974984952883321072.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321072.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES 08 DAZN LALIGA",ES: DAZN LALIGA HD
+http://974984952883320781.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/320781.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES 08 DAZN LALIGA",ES: DAZN LALIGA 2 HD
+http://974984952883320779.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/320779.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: LALIGA TV BAR HD
+http://974984952883165407.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165407.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA HD
+http://974984952883165392.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165392.ts
+
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES:MOVISTAR DEPORTES HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES HD
+http://974984952883268070.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/268070.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 FHD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 1 FHD
+http://974984952883165457.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165457.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 2 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 2 HD
+http://974984952883165460.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165460.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 3 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 3 HD
+http://974984952883277443.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/277443.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 HD
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title=" ES 01 MOVISTAR+",ES: #VAMOS HD
+http://974984952883321072.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321072.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 HD
+http://974984952883228385.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228385.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 HD
+http://974984952883228388.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228388.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 HD
+http://974984952883228394.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228394.ts
+
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA HD
 http://974984952883165392.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165392.ts
 
@@ -22,14 +58,6 @@ http://974984952883165460.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165460.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 3 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 3 HD
 http://974984952883277443.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/277443.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 HD
-http://974984952883228385.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228385.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 HD
-http://974984952883228388.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228388.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 HD
-http://974984952883228394.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228394.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 HD
 http://974984952883228398.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/228398.ts
@@ -61,12 +89,6 @@ http://974984952883290352.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/290352.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 SD
 http://974984952883165257.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165257.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES 08 DAZN LALIGA",ES: DAZN LALIGA HD
-http://974984952883320781.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/320781.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="ES 08 DAZN LALIGA",ES: DAZN LALIGA 2 HD
-http://974984952883320779.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/320779.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA SMARTBANK HD
 http://974984952883320786.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/320786.ts
 
@@ -76,5 +98,11 @@ http://974984952883320790.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/320790.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV HD
 http://974984952883165449.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165449.ts
 
-#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: GOL MUNDIAL 1 HD(OP1)" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="ES 01 Qatar World Cup 2022",ES: GOL MUNDIAL 1 HD(OP1)
-http://974984952883333713.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/333713.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 1 HD
+http://974984952883165396.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165396.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 2 HD
+http://974984952883165398.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165398.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 3 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 3 HD
+http://974984952883165400.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165400.ts
