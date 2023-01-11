@@ -92,3 +92,9 @@ http://974984952883282460.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/282460.ts
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 SD
 http://974984952883165257.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/165257.ts
+
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: SUPERPOCA 1 HD(OP1)" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="ES 01 Qatar World Cup 2022",ES: GOL MUNDIAL 1 HD(OP1)
+http://974984952883333713.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/333713.ts
+
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="ES: GOL MUNDIAL 1 SD" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" group-title="ES 01 Qatar World Cup 2022",ES: GOL MUNDIAL 1 SD
+http://974984952883333644.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/333644.ts
