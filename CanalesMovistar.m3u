@@ -1,44 +1,80 @@
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title=" ES 01 MOVISTAR+",ES: NAT GEO HD
-http://974984952883321366.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321366.ts
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC FHD
+http://596875018952321371.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321371.ts
+##EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="ES   MOVISTAR+",ES: NAT GEO WILD FHD
+http://596875018952321364.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321364.ts
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: HISTORIA FHD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA FHD
+http://596875018952336326.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/336326.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="ES   MOVISTAR+",ES: DMAX FHD
+http://596875018952321225.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321225.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES FHD
+http://596875018952552954.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/552954.ts
 
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title=" ES 01 MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD HD
-http://974984952883321369.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321369.ts
 
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title=" ES 01 MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
-http://974984952883321372.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321372.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% PESCA HD
+http://596875018952336331.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/336331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="ES   MOVISTAR+",ES: IBERALIA 100% CAZA SD
+http://596875018952336329.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/336329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA HD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ES   MOVISTAR+",ES: IBERALIA HD
+http://596875018952394391.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/394391.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: CAZAVISION FHD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+http://596875018952321172.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321172.ts
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
+http://596875018952321168.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321168.ts
 
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: HISTORIA HD
-http://974984952883321262.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321262.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES FHD
+http://596875018952321068.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321068.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE ESPANOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="ES   MOVISTAR+",ES: M+ CINE ESPANOL FHD
+http://596875018952543742.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/543742.ts
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="ES: LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/big_345.png" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA HD
+http://596875018952321286.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321286.ts
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="ES   MOVISTAR+",ES: M+ CINE FHD
+http://596875018952559513.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/559513.ts
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ES   MOVISTAR+",ES: M+ ACCION FHD
+http://596875018952321305.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321305.ts
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" group-title="ES   MOVISTAR+",ES: M+ COMEDIA FHD
+http://596875018952321317.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321317.ts
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOLE.png" group-title="ES   MOVISTAR+",ES: M+ DRAMA FHD
+http://596875018952321331.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321331.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ ESTRENOS 2 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 FHD
+http://596875018952321334.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321334.ts
+#EXTINF:-1 tvg-id="LA 1 FHD" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS FHD
+http://596875018952321337.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321337.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="ES: M+ SERIES 2 FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 FHD
+http://596875018952321344.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321344.ts
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="ES: M+ SERIES FHD" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="ES   MOVISTAR+",ES: M+ SERIES FHD
+http://596875018952321347.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/321347.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ INDIE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" group-title="ES   MOVISTAR+",ES: M+ INDIE FHD
+http://596875018952552957.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/552957.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ SUSPENSE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MSUSP.png" group-title="ES   MOVISTAR+",ES: M+ SUSPENSE FHD
+http://596875018952552964.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/552964.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ PLUS+ FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MPLUS" group-title="ES   MOVISTAR+",ES: M+ PLUS+ FHD
+http://596875018952646233.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/646233.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN MOVIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SET.png" group-title="ES   MOVISTAR+",ES: AXN MOVIES FHD
+http://596875018952538658.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/538658.ts
 
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+",ES: #0 HD
-http://974984952883321069.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321069.ts
 
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA & PESCA HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: CAZA & PESCA HD
-http://974984952883321167.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321167.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX MOVIES 2 FHD" tvg-logo="" group-title="SVIP NETFLIX",ES: NETFLIX MOVIES 2 FHD
+http://596875018952625868.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/625868.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX ACTION 2 FHD" tvg-logo="" group-title="SVIP NETFLIX",ES: NETFLIX ACTION 2 FHD
+http://596875018952652206.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/652206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 1 FHD
+http://596875018952267808.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/267808.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 2 FHD
+http://596875018952267809.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/267809.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 3 FHD
+http://596875018952267810.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/267810.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 5 FHD
+http://596875018952267812.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/267812.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV HD" tvg-logo="" group-title="ES DEPORTES",ES: MOTO ADV HD
+http://596875018952466762.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/466762.ts
 
-#EXTINF:-1 tvg-id="Cazavision" tvg-name="ES: CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title=" ES 01 MOVISTAR+",ES: CAZAVISION HD
-http://974984952883321172.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321172.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA SD" tvg-logo="http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="ES AUTONOMICOS",ES: CANAL EXTREMADURA SD
+http://596875018952272446.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/272446.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR ANDALUCIA 2 SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/CANALSUR2.png" group-title="ES   MOVISTAR+",ES: CANAL SUR ANDALUCIA 2 SD
+http://596875018952336294.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/336294.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR ANDALUCIA SD" tvg-logo="https://miguia.tv/channels/big_8.png" group-title="ES   MOVISTAR+",ES: CANAL SUR ANDALUCIA SD
+http://596875018952336295.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/336295.ts
 
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES: IBERALIA FHD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title=" ES 01 MOVISTAR+",ES: IBERALIA FHD
-http://974984952883321271.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321271.ts
-
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNELS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title=" ES 01 MOVISTAR+",ES: DISCOVERY CHANNELS HD
-http://974984952883321211.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321211.ts
-
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY WORLD HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png" group-title=" ES 01 MOVISTAR+",ES: DISCOVERY WORLD HD
-http://974984952883321213.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321213.ts
-
-#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX HD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title=" ES 01 MOVISTAR+",ES: DMAX HD
-http://974984952883321226.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321226.ts
-
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="ES: EL TORO TV HD" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title=" ES 01 MOVISTAR+",ES: EL TORO TV HD
-http://974984952883321232.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/321232.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA HD" tvg-logo="" group-title=" ES 01 MOVISTAR+",ES: ANDALUCIA HD
-http://974984952883326807.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/326807.ts
-
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL COCINA HEVC" tvg-logo="" group-title="ES 07 MOVISTAR + HEVC",ES: CANAL COCINA HEVC
-http://974984952883330526.niceadom.xyz:80/play/vi1207528/6PenSTxkFh7/330526.ts
 
 
 
