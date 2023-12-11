@@ -1,4 +1,8 @@
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M LALIGA HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA FHD
+http://596875018952320782.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/320782.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
+http://596875018952268042.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/268042.ts
+##EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  M+ LALIGA",ES: M LALIGA HD
 http://596875018952165392.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/165392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
 http://596875018952165398.of1202show.xyz:80/play/vi122607/GjHXrCgCmB/165398.ts
